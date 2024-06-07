@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Pheenix
+### Hi there 👋, I am Pheenix
 I'm a passionate and dedicated frontend developer with a keen eye for design and user experience. I specialize in creating visually appealing and user-friendly web applications.
 
 Skills: REACT / JQUERY / SASS / JS / HTML / CSS
